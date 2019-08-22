@@ -1,21 +1,21 @@
-# 𝓙𝓸𝓫𝓢𝓱𝓮𝓮𝓽5 
+# 𝕁𝕠𝕓𝕊𝕙𝕖𝕖𝕥𝟝
 
 
 
-# OperatorAritmatika1
+# =====𝕆𝕡𝕖𝕣𝕒𝕥𝕠𝕣𝔸𝕣𝕚𝕥𝕞𝕒𝕥𝕚𝕜𝕒𝟙=====
 ![Alt Text](https://github.com/Syihabuddinsanni/JobSheet5/blob/master/Screenshot%20(14).png)
 
 
 
-# OperatorAritmatika2
+# =====𝕆𝕡𝕖𝕣𝕒𝕥𝕠𝕣𝔸𝕣𝕚𝕥𝕞𝕒𝕥𝕚𝕜𝕒𝟚=====
 ![Alt Text](https://github.com/Syihabuddinsanni/JobSheet5/blob/master/Screenshot%20(13).png)
 
 
 
-# Operatorunary
+# =====𝕆𝕡𝕖𝕣𝕒𝕥𝕠𝕣𝕦𝕟𝕒𝕣𝕪=====
 ![Alt Text](https://github.com/Syihabuddinsanni/JobSheet5/blob/master/Screenshot%20(16).png)
 
 
 
-# OperatorBitwise
+# =====𝕆𝕡𝕖𝕣𝕒𝕥𝕠𝕣𝔹𝕚𝕥𝕨𝕚𝕤𝕖=====
 ![Alt Text](https://github.com/Syihabuddinsanni/JobSheet5/blob/master/Screenshot%20(18).png)
